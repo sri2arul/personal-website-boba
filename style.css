@@ -1,0 +1,12 @@
+img {
+    width: 400px;
+}
+body {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: #BE986D;
+    color: #443627;
+}
+.outline {
+  text-shadow: -0.5px -0.5px 0 #7f5539, 0.5px -0.5px 0 #7f5539, -0.5px 0.5px 0 #7f5539, 0.5px 0.5px 0 #7f5539;
+}
